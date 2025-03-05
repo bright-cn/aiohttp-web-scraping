@@ -1,6 +1,6 @@
 # 使用 AIOHTTP 在 Python 中进行网页抓取
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn) 
 
 本指南将介绍在 Python 中使用 AIOHTTP 进行网页抓取的基础知识。
 
