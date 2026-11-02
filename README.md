@@ -1,6 +1,6 @@
 # 使用 Python 中的 AIOHTTP 进行网页爬虫
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/) 
 
 本指南介绍了如何在 Python 中使用 AIOHTTP 进行网页爬虫的基础知识。
 
