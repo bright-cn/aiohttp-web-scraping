@@ -93,7 +93,7 @@ from bs4 import BeautifulSoup
 > **注意**：\
 > `aiohttp` 需要 `asyncio` 才能运行。
 
-现在，将以下 `async` 函数工作流添加到你的 `scrper.py` 文件中：
+现在，将以下 `async` 函数工作流添加到你的 `scraper.py` 文件中：
 
 ```python
 async def scrape_quotes():
